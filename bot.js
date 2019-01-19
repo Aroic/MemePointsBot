@@ -6,7 +6,7 @@ const client = new Discord.Client();
 const prefix = "!";
 
 //The specific ID of piwi.
-const PIWI_GUILD_ID = "161571540020887552";
+const PIWI_GUILD_ID = auth.guild_id;
 
 // dictionary of users => (memepoints, toxicpoints)
 var MemeDictionary = [];
