@@ -8,6 +8,7 @@
     "discord.io": "^2.5.3",
     "discord.js": "^11.4.2",
     "fuzzy-search": "^3.0.1",
+    "fuzzyset.js": "0.0.8",
     "winston": "^3.1.0"
   },
   "devDependencies": {},
